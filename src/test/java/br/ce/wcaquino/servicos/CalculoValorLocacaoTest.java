@@ -38,7 +38,6 @@ public class CalculoValorLocacaoTest {
 	@Mock
 	private SPCService spc;
 	
-	
 	@Parameter
 	public List<Filme> filmes;
 	
